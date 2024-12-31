@@ -11,18 +11,18 @@
 ![image](https://github.com/rgGrpp/-/blob/main/%E9%82%8F%E8%BC%AF%E8%A6%96%E5%9C%96.png)
 邏輯視圖｜設計的對象模型
 
-過程/進程視圖（Process View）
+2.過程/進程視圖（Process View）
 捕捉設計的並發和同步特徵。這個圖有點抽象，主要需要表現出線程、進程之間的關係。
-
+![image](https://github.com/rgGrpp/-/blob/main/%E9%81%8E%E7%A8%8B%E8%A6%96%E5%9C%96.png)
 過程/進程視圖
 
-物理視圖（Physical View）
+3.物理視圖（Physical View）
 描述了軟體到硬體的映射，反映了分佈式特性。你的物理網路如何搭建。
-
+![image]()
 物理視圖
 
-開發視圖（Development View）
+4.開發視圖（Development View）
 描述了在開發環境中軟體的靜態組織結構。包含哪些功能模組。
-
+![image](https://github.com/rgGrpp/-/blob/main/%E9%96%8B%E7%99%BC%E8%A6%96%E5%9C%96.png)
 開發視圖
 
