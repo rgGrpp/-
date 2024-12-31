@@ -6,9 +6,9 @@
 總的來說，只要你去做彙報/寫PPT，你總是要畫上一兩個視圖的。
 4代表了4種視圖，1表示基於某一個場景，結合4種視圖進行說明。
 
-邏輯視圖（Logical View）
+1.邏輯視圖（Logical View）
 設計的對象模型，改成了用UML來表示。
-
+![image](https://github.com/rgGrpp/-/blob/main/%E9%82%8F%E8%BC%AF%E8%A6%96%E5%9C%96.png)
 邏輯視圖｜設計的對象模型
 
 過程/進程視圖（Process View）
