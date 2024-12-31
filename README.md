@@ -18,7 +18,7 @@
 
 3.物理視圖（Physical View）
 描述了軟體到硬體的映射，反映了分佈式特性。你的物理網路如何搭建。
-![image]()
+![image](https://github.com/rgGrpp/-/blob/main/%E7%89%A9%E7%90%86%E8%A6%96%E5%9C%96.png)
 物理視圖
 
 4.開發視圖（Development View）
